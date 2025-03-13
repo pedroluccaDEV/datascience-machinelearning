@@ -1,12 +1,12 @@
 # 📊 Análise do IDEB no Brasil
 
-Este estudo detalhado do IDEB (Índice de Desenvolvimento da Educação Básica) no Brasil combina análise exploratória, modelagem preditiva e interpretação de resultados para identificar os fatores que mais influenciam o índice e fornecer insights para políticas públicas eficazes.
+O Índice de Desenvolvimento da Educação Básica (IDEB) é um dos principais indicadores da qualidade da educação no Brasil. Neste estudo, realizamos uma análise detalhada dos fatores que impactam o IDEB, combinando técnicas de exploração de dados, modelagem preditiva e interpretação crítica dos resultados. O objetivo é identificar padrões, prever tendências e fornecer insights que possam orientar políticas educacionais mais eficazes. Este repositório contém notebooks, scripts e documentação detalhada para facilitar a reprodução e aprofundamento da análise.
 
 ## 📌 Diferenciais
-- **🔍 Análise exploratória:** Identificação de padrões e relações entre variáveis com visualizações e estatísticas.
-- **📈 Modelagem preditiva:** Aplicação de Machine Learning (Regressão Linear, Árvores de Decisão, Random Forest, XGBoost) para prever o IDEB.
-- **🧠 Interpretação:** Análise crítica dos resultados e insights para políticas públicas.
-- **📂 Repositório completo:** Todos os materiais para reprodução da análise.
+- **🔍 Análise exploratória:** Utilização de estatísticas descritivas e visualizações avançadas para identificar padrões e relações entre variáveis educacionais e socioeconômicas.
+- **📈 Modelagem preditiva:** Aplicação de técnicas de Machine Learning, como Regressão Linear, Árvores de Decisão, Random Forest e XGBoost, para prever o desempenho do IDEB.
+- **🧠 Interpretação de resultados:** Análise crítica das previsões geradas pelos modelos, destacando fatores determinantes e possíveis implicações para a formulação de políticas públicas.
+- **📂 Repositório completo:** Disponibilização de todos os materiais utilizados, permitindo a replicação do estudo e futuras melhorias.
 
 ## 🚀 Tecnologias Utilizadas
 
